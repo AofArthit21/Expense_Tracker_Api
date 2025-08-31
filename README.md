@@ -239,7 +239,6 @@ The test suite includes:
 | `npm start` | Start production server |
 | `npm test` | Run all tests |
 | `npm run test:coverage` | Run tests with coverage report |
-| `npm run test:watch` | Run tests in watch mode |
 | `npm run lint` | Run ESLint |
 | `npm run lint:fix` | Fix ESLint issues |
 | `npm run format` | Format code with Prettier |
